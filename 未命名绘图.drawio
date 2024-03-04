@@ -1,9 +1,98 @@
-<mxfile host="app.diagrams.net" modified="2024-03-04T09:38:37.636Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" version="24.0.1" etag="sWNjK_6GR9SP1sk0a_ND" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-04T09:53:29.059Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="Gt02Vsvzfo6U4LzdwIdU" version="24.0.1" type="github">
   <diagram name="第 1 页" id="Dm1CJa05fnDdfBQ5dVc0">
-    <mxGraphModel>
+    <mxGraphModel dx="2420" dy="873" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="BeOJ8B-DtsP8Gixvsn01-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;noEdgeStyle=1;labelBackgroundColor=none;fontColor=default;strokeColor=#FF6392;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="BeOJ8B-DtsP8Gixvsn01-1" target="BeOJ8B-DtsP8Gixvsn01-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BeOJ8B-DtsP8Gixvsn01-1" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="130" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BeOJ8B-DtsP8Gixvsn01-2" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="260" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BeOJ8B-DtsP8Gixvsn01-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;strokeColor=#FF6392;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="BeOJ8B-DtsP8Gixvsn01-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BeOJ8B-DtsP8Gixvsn01-6" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="374" y="585" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BeOJ8B-DtsP8Gixvsn01-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.9;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;labelBackgroundColor=none;fontColor=default;strokeColor=#FF6392;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="BeOJ8B-DtsP8Gixvsn01-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="500" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BeOJ8B-DtsP8Gixvsn01-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;strokeColor=#FF6392;sketch=1;curveFitting=1;jiggle=2;" edge="1" parent="1" source="BeOJ8B-DtsP8Gixvsn01-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BeOJ8B-DtsP8Gixvsn01-21" value="" style="shape=actor;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="590" y="380" width="40" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BeOJ8B-DtsP8Gixvsn01-25" value="" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;labelBackgroundColor=none;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="360" y="350" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BeOJ8B-DtsP8Gixvsn01-26" value="main" style="html=1;shape=mxgraph.er.anchor;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="BeOJ8B-DtsP8Gixvsn01-25">
+          <mxGeometry width="50" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="BeOJ8B-DtsP8Gixvsn01-27" value="sub" style="rounded=1;absoluteArcSize=1;html=1;arcSize=10;whiteSpace=wrap;points=[];labelBackgroundColor=none;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="BeOJ8B-DtsP8Gixvsn01-25">
+          <mxGeometry x="50" y="5" width="45" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="BeOJ8B-DtsP8Gixvsn01-28" value="" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="250" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BeOJ8B-DtsP8Gixvsn01-31" value="" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="200" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BeOJ8B-DtsP8Gixvsn01-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;labelBackgroundColor=none;strokeColor=#FF6392;fontColor=default;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="400" as="targetPoint" />
+            <mxPoint x="120" y="405" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="120" y="520" />
+              <mxPoint x="235" y="520" />
+              <mxPoint x="235" y="401" />
+              <mxPoint x="350" y="401" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BeOJ8B-DtsP8Gixvsn01-32" value="" style="whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BeOJ8B-DtsP8Gixvsn01-34" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;strokeWidth=5;shadow=1;textShadow=1;sketch=1;curveFitting=1;jiggle=2;rounded=0;labelBackgroundColor=none;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;" vertex="1" parent="1">
+          <mxGeometry x="150" y="550" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="BeOJ8B-DtsP8Gixvsn01-35" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=none;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="BeOJ8B-DtsP8Gixvsn01-34">
+          <mxGeometry width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="BeOJ8B-DtsP8Gixvsn01-36" value="标题&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="BeOJ8B-DtsP8Gixvsn01-35">
+          <mxGeometry width="60" height="20" as="geometry">
+            <mxRectangle width="60" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BeOJ8B-DtsP8Gixvsn01-37" value="名字" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="BeOJ8B-DtsP8Gixvsn01-35">
+          <mxGeometry x="60" width="60" height="20" as="geometry">
+            <mxRectangle width="60" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BeOJ8B-DtsP8Gixvsn01-38" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;labelBackgroundColor=none;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="BeOJ8B-DtsP8Gixvsn01-34">
+          <mxGeometry y="20" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="BeOJ8B-DtsP8Gixvsn01-39" value="你好" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="BeOJ8B-DtsP8Gixvsn01-38">
+          <mxGeometry width="60" height="40" as="geometry">
+            <mxRectangle width="60" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BeOJ8B-DtsP8Gixvsn01-40" value="hhh" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;overflow=hidden;top=0;left=0;bottom=0;right=0;pointerEvents=1;labelBackgroundColor=none;fillColor=#FFE45E;strokeColor=#FF6392;fontColor=#5AA9E6;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="BeOJ8B-DtsP8Gixvsn01-38">
+          <mxGeometry x="60" width="60" height="40" as="geometry">
+            <mxRectangle width="60" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
